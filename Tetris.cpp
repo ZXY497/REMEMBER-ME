@@ -190,10 +190,8 @@ void initialPrint(HANDLE hOut)
     cout << "空格键：开始/暂停";
     gotoXY(hOut, 30, 14);
     cout << "Esc 键：退出";
-    gotoXY(hOut, 26, 16);
-    cout << "关    于：";
     gotoXY(hOut, 30, 18);
-    cout << "俄罗斯方块V1.0";
+    cout << "俄罗斯方块 Gaming";
   
 }
 
